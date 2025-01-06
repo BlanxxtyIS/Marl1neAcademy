@@ -1059,6 +1059,6 @@ C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\8h6nm2lu
 C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\rub1ys3fnm-xcgdsu1w4u.gz
 C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\g91mxb4cer-ia5vxjvmvv.gz
 C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\8lmmzhzmmi-9jdsg161g5.gz
-C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\kb90l4x90i-1nelk3c3bp.gz
-C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\nrce2f7bjz-26z0u87kaf.gz
-C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\0kih5qk3hm-cn72kts496.gz
+C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\kb90l4x90i-bmz3psv89q.gz
+C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\nrce2f7bjz-89qsdj7hhh.gz
+C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\0kih5qk3hm-ckuuvn3hfz.gz

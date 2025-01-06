@@ -1,6 +1,7 @@
 ﻿@page "/"
 @using Models
 @inject HttpClient Http
+@using System.Net.Http.Json
 
 <h3>Управление курсами</h3>
 
@@ -25,6 +26,7 @@
                 <td>@course.Name</td>
                 <td>@course.Description</td>
                 <td>
+                    <button class="btn btn-sm btn-warning" @onclick="() => AddNewCourse()">Добавить курс</button>
                     <button class="btn btn-sm btn-warning" @onclick="() => EditCourse(course)">Редактировать</button>
                     <button class="btn btn-sm btn-danger" @onclick="() => DeleteCourse(course)">Удалить</button>
                 </td>
@@ -38,31 +40,58 @@
 
     protected override async Task OnInitializedAsync()
     {
-        LoadTestData();   
+        UpdatedData();
     }
 
-    private void LoadTestData()
+    protected override async Task OnParametersSetAsync()
     {
-        List<Data> datas = new List<Data>
-        {
-            new Data {
-            Name = "C#",
-            Description = "Это лучший язык программирования на свете",
-            Progress = 0
-            },
-            new Data
-            {
-                Name = "Swift",
-                Description = "Хороший язык для стиляг и легкий старт",
-                Progress = 0
-            }
-        };
-        Courses = datas;
+        UpdatedData();
     }
 
-    private void AddNewCourse() { }
+    private async Task UpdatedData()
+    {
+        try
+        {
+            Courses = await Http.GetFromJsonAsync<List<Data>>("api/AdminPage") ?? new();
+        }
+        catch (Exception ex)
+        {
+            // Обработка ошибок
+            Console.WriteLine($"Error: {ex.Message}");
+        }
+    }
 
-    private void EditCourse(Data course) { }
+    private async Task AddNewCourse()
+    {
+        var newCourse = new Data
+            {
+                Name = "Новый курс",
+                Description = "Описание курса",
+                Progress = 0
+            };
 
-    private void DeleteCourse(Data course) { }
+        var response = await Http.PostAsJsonAsync("api/AdminPage/create", newCourse);
+        if (response.IsSuccessStatusCode)
+        {
+            Courses = await Http.GetFromJsonAsync<List<Data>>("api/AdminPage/all") ?? new();
+        }
+    }
+
+    private async Task EditCourse(Data course)
+    {
+        var response = await Http.PutAsJsonAsync($"api/AdminPage/{course.Id}", course);
+        if (response.IsSuccessStatusCode)
+        {
+            Courses = await Http.GetFromJsonAsync<List<Data>>("api/AdminPage") ?? new();
+        }
+    }
+
+    private async Task DeleteCourse(Data course)
+    {
+        var response = await Http.DeleteAsync($"api/AdminPage/{course.Id}");
+        if (response.IsSuccessStatusCode)
+        {
+            Courses = await Http.GetFromJsonAsync<List<Data>>("api/AdminPage") ?? new();
+        }
+    }
 }
