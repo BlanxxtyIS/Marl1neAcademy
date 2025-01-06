@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{0CEEFEBE-355B-4BC7-884F-E6F40314FE03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{6CEE860B-7AF2-46BE-BC58-136B08517650}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{6CEE860B-7AF2-46BE-BC58-136B08517650}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
