@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\models\\userprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|solutionrelative:models\\userprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CEEFEBE-355B-4BC7-884F-E6F40314FE03}|API\\API.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEEFEBE-355B-4BC7-884F-E6F40314FE03}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEEFEBE-355B-4BC7-884F-E6F40314FE03}|API\\API.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CEEFEBE-355B-4BC7-884F-E6F40314FE03}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEEFEBE-355B-4BC7-884F-E6F40314FE03}|API\\API.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\api\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEEFEBE-355B-4BC7-884F-E6F40314FE03}|API\\API.csproj|solutionrelative:api\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|solutionrelative:models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\models\\userprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|solutionrelative:models\\userprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|solutionrelative:models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEEFEBE-355B-4BC7-884F-E6F40314FE03}|API\\API.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CEEFEBE-355B-4BC7-884F-E6F40314FE03}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|solutionrelative:models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3902C216-8E28-4780-9BEC-FB39D1833762}|Models\\Models.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,15 +46,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:43:47.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T23:43:34.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\API\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\API\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "API\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:40:42.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T23:37:39.068Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserProgress.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Models\\UserProgress.cs",
               "RelativeDocumentMoniker": "Models\\UserProgress.cs",
@@ -51,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -64,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Section.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Models\\Section.cs",
               "RelativeDocumentMoniker": "Models\\Section.cs",
@@ -77,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Chapter.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Models\\Chapter.cs",
               "RelativeDocumentMoniker": "Models\\Chapter.cs",
@@ -90,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Data.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Models\\Data.cs",
               "RelativeDocumentMoniker": "Models\\Data.cs",
