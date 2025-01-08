@@ -69,6 +69,7 @@
                 Description = "Описание курса",
                 Progress = 0
             };
+            Courses.Add(newCourse);
 
         var response = await Http.PostAsJsonAsync("api/AdminPage/create", newCourse);
         if (response.IsSuccessStatusCode)

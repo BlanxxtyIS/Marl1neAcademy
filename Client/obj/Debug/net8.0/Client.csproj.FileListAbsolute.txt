@@ -1057,8 +1057,8 @@ C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\webcil\MudBlazor.wa
 C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\40sppnt9om-nx0z2f3xfv.gz
 C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\8h6nm2luvy-5map5kd04b.gz
 C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\rub1ys3fnm-xcgdsu1w4u.gz
-C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\g91mxb4cer-ia5vxjvmvv.gz
-C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\8lmmzhzmmi-9jdsg161g5.gz
-C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\kb90l4x90i-bmz3psv89q.gz
-C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\nrce2f7bjz-89qsdj7hhh.gz
-C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\0kih5qk3hm-ckuuvn3hfz.gz
+C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\g91mxb4cer-w1k2m9blm6.gz
+C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\8lmmzhzmmi-aveu9vkm6d.gz
+C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\kb90l4x90i-zerxnpuxyk.gz
+C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\nrce2f7bjz-ojmi92ywwa.gz
+C:\Users\Zver\Desktop\Marl1neAcademy\Client\obj\Debug\net8.0\compressed\0kih5qk3hm-2p0nefjnm6.gz
