@@ -36,7 +36,7 @@ namespace API.Controllers
         }
 
         // POST: api/AdminPage
-        [HttpPost]
+        [HttpPost("add")]
         public async Task<ActionResult<Data>> CreateData(Data data)
         {
             _context.Datas.Add(data);
@@ -81,7 +81,7 @@ namespace API.Controllers
             return _context.Datas.Any(e => e.Id == id);
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("delete/{id}")]
         public async Task<IActionResult> DeleteData(int id)
         {
             var data = await _context.Datas.FindAsync(id);

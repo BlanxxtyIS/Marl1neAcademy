@@ -40,19 +40,19 @@
 
     protected override async Task OnInitializedAsync()
     {
-        UpdatedData();
+        await UpdatedData();
     }
 
     protected override async Task OnParametersSetAsync()
     {
-        UpdatedData();
+        await UpdatedData();
     }
 
     private async Task UpdatedData()
     {
         try
         {
-            Courses = await Http.GetFromJsonAsync<List<Data>>("api/AdminPage") ?? new();
+            Courses = await Http.GetFromJsonAsync<List<Data>>("api/AdminPage/all") ?? new();
         }
         catch (Exception ex)
         {
@@ -63,18 +63,31 @@
 
     private async Task AddNewCourse()
     {
-        var newCourse = new Data
-            {
-                Name = "Новый курс",
-                Description = "Описание курса",
-                Progress = 0
-            };
+        try
+        {
+            var newCourse = new Data
+                {
+                    Name = "Новый курс",
+                    Description = "Описание курса",
+                    Progress = 0
+                };
             Courses.Add(newCourse);
 
-        var response = await Http.PostAsJsonAsync("api/AdminPage/create", newCourse);
-        if (response.IsSuccessStatusCode)
+            var response = await Http.PostAsJsonAsync("api/AdminPage/add", newCourse);
+
+            if (!response.IsSuccessStatusCode)
+            {
+                var error = await response.Content.ReadAsStringAsync();
+                Console.WriteLine($"Error: {response.StatusCode}, {error}");
+            }
+            else
+            {
+                Courses = await Http.GetFromJsonAsync<List<Data>>("api/AdminPage/all") ?? new();
+            }
+        }
+        catch (Exception ex)
         {
-            Courses = await Http.GetFromJsonAsync<List<Data>>("api/AdminPage/all") ?? new();
+            Console.WriteLine($"Exception: {ex.Message}");
         }
     }
 
@@ -89,10 +102,10 @@
 
     private async Task DeleteCourse(Data course)
     {
-        var response = await Http.DeleteAsync($"api/AdminPage/{course.Id}");
+        var response = await Http.DeleteAsync($"api/AdminPage/delete/{course.Id}");
         if (response.IsSuccessStatusCode)
         {
-            Courses = await Http.GetFromJsonAsync<List<Data>>("api/AdminPage") ?? new();
+            Courses = await Http.GetFromJsonAsync<List<Data>>("api/AdminPage/all") ?? new();
         }
     }
 }
