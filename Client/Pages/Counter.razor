@@ -1,4 +1,5 @@
 ﻿@page "/counter"
+@inject HttpClient Http
 
 <PageTitle>Counter</PageTitle>
 
@@ -8,11 +9,60 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+<h2>Chapter</h2>
+<div>
+    <p>
+        Title:<br />
+        <InputText @bind-Value="chapter.Title" />
+    </p>
+    <p>
+        Description:<br />
+        <InputText @bind-Value="chapter.Description" />
+    </p>
+    <p>
+        Order:<br />
+        <InputNumber @bind-Value="chapter.Order" />
+    </p>
+    <p>
+        DataId:<br />
+        <InputNumber @bind-Value="chapter.DataId" >@data.Id</InputNumber>
+    </p>
+    <p>
+        Sections:<br /> />
+        @foreach(var section in chapter.Sections) {
+
+        }
+    </p>
+</div>
+
+<button class="btn btn-primary" @onclick="AddToChapter">Отправить</button>
+<p>Ответ: @answer</p>
+
+<p>Title @chapter.Title</p>
+<p>Description @chapter.Description</p>
+<p>Order @chapter.Order</p>
+<p>DataId @chapter.DataId</p>
+
+
 @code {
+    private string answer = "";
+    Data data = new();
     private int currentCount = 0;
+    Chapter chapter = new();
 
     private void IncrementCount()
     {
         currentCount++;
+    }
+
+    private async Task AddToChapter() {
+        var response = await Http.PostAsJsonAsync("api/AdminPage/addChapter", chapter);
+        if (!response.IsSuccessStatusCode)
+        {
+            var error = await response.Content.ReadAsStringAsync();
+            answer = $"Error: {response.StatusCode}, {error}";
+        } else {
+            answer = "Yes, that's all!";
+        }
     }
 }

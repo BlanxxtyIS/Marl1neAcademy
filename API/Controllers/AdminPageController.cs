@@ -45,6 +45,15 @@ namespace API.Controllers
             return CreatedAtAction(nameof(GetData), new { id = data.Id }, data);
         }
 
+        [HttpPost("addChapter")]
+        public async Task<ActionResult<Chapter>> CreateChapter(Chapter chapter)
+        {
+            _context.Chapters.Add(chapter);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(nameof(GetData), new { id = chapter.Id }, chapter);
+        }
+
         // PUT: api/AdminPage/5
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateData(int id, Data data)

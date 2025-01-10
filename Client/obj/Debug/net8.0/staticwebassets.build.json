@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ctWs5jpwlzx4ob9O53SdjVk4mcdTvD/eOVbAkVkx0JM=",
+  "Hash": "o7HjNiobgL6rgIFBdJ18ItIr2XF6amxnJzGKepNwVNk=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "nneiq6juz9",
-      "Integrity": "TQO47BHft86yVPyqS5J9dEBBIbGtH3zJXfjWz6mmGdk=",
+      "Fingerprint": "ozj7yctrc3",
+      "Integrity": "DP2lDlqKXzaDlgAhw8UUwztU2Zbu0sMrIK6XceTiG28=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "b2bt1tehi7",
-      "Integrity": "vc2psw4HNpypxZ5OAhLRmHNprAh7JX4KICp7GEgMUJk=",
+      "Fingerprint": "3ouvzkqben",
+      "Integrity": "A+AK5LP/2M0eFgBHa+9KFZTLLzV4iVB06SJCHyY0ghA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\Client.pdb"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "3cxwpnhdop",
-      "Integrity": "Pcq9qpmr87rMyxcRXsgaIpbiY57qUDhoG1ghcoQ3zDM=",
+      "Fingerprint": "3gtefuybhp",
+      "Integrity": "kxPMhQ/SOXkbEAcKnTLA7G8kfPFztRGeoYhP2kZwOOk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\webcil\\Client.wasm"
@@ -4469,7 +4469,7 @@
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\webcil\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-nneiq6juz9.gz",
+      "Identity": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-ozj7yctrc3.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -4483,8 +4483,8 @@
       "RelatedAsset": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wtik0wuvm7",
-      "Integrity": "VLzyylVtoG852QQkB99m0h+x1w7+xetcm7P+Dsmg+hs=",
+      "Fingerprint": "k28tee2237",
+      "Integrity": "5Msl8orU2inP1GuAi89hlbXeueEZ07LnC3re9/Bjot8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6926,7 +6926,7 @@
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.Expressions.wasm"
     },
     {
-      "Identity": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-3cxwpnhdop.gz",
+      "Identity": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-3gtefuybhp.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -6940,8 +6940,8 @@
       "RelatedAsset": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jn4owv3bhi",
-      "Integrity": "ceY9qpIsUEzTTTrteLAHP+d1+Ct6ByUmPnZehczBJc8=",
+      "Fingerprint": "ydcr3e7axo",
+      "Integrity": "dkKuPrkxwyA7tLC+qupBxJE6+DqwJ7b0RBWjw7XQDj8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.wasm"
@@ -7241,7 +7241,7 @@
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.CoreLib.wasm"
     },
     {
-      "Identity": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-b2bt1tehi7.gz",
+      "Identity": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-3ouvzkqben.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -7255,8 +7255,8 @@
       "RelatedAsset": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ew4zxfu73q",
-      "Integrity": "cv8WsESCvSTIlPEf0EI+x5RCvR5erI/Pb3KjCUcSrOk=",
+      "Fingerprint": "qmhp52s9a0",
+      "Integrity": "fm3oaf1Gs5/g15RRhGsrhImodlHSXYIsl0RDIJ2a7lc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Client.pdb"
@@ -9162,11 +9162,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TQO47BHft86yVPyqS5J9dEBBIbGtH3zJXfjWz6mmGdk=\""
+          "Value": "\"DP2lDlqKXzaDlgAhw8UUwztU2Zbu0sMrIK6XceTiG28=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:15:54 GMT"
+          "Value": "Fri, 10 Jan 2025 12:46:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9176,18 +9176,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TQO47BHft86yVPyqS5J9dEBBIbGtH3zJXfjWz6mmGdk="
+          "Value": "sha256-DP2lDlqKXzaDlgAhw8UUwztU2Zbu0sMrIK6XceTiG28="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-nneiq6juz9.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-ozj7yctrc3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000110399647"
+          "Quality": "0.000110436223"
         }
       ],
       "ResponseHeaders": [
@@ -9197,15 +9197,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9057"
+          "Value": "9054"
         },
         {
           "Name": "ETag",
-          "Value": "\"VLzyylVtoG852QQkB99m0h+x1w7+xetcm7P+Dsmg+hs=\""
+          "Value": "\"5Msl8orU2inP1GuAi89hlbXeueEZ07LnC3re9/Bjot8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:13:40 GMT"
+          "Value": "Fri, 10 Jan 2025 11:55:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9225,19 +9225,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"TQO47BHft86yVPyqS5J9dEBBIbGtH3zJXfjWz6mmGdk=\""
+          "Value": "W/\"DP2lDlqKXzaDlgAhw8UUwztU2Zbu0sMrIK6XceTiG28=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TQO47BHft86yVPyqS5J9dEBBIbGtH3zJXfjWz6mmGdk="
+          "Value": "sha256-DP2lDlqKXzaDlgAhw8UUwztU2Zbu0sMrIK6XceTiG28="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-nneiq6juz9.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\0kih5qk3hm-ozj7yctrc3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9246,7 +9246,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9057"
+          "Value": "9054"
         },
         {
           "Name": "Content-Type",
@@ -9254,11 +9254,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VLzyylVtoG852QQkB99m0h+x1w7+xetcm7P+Dsmg+hs=\""
+          "Value": "\"5Msl8orU2inP1GuAi89hlbXeueEZ07LnC3re9/Bjot8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:13:40 GMT"
+          "Value": "Fri, 10 Jan 2025 11:55:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9276,7 +9276,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VLzyylVtoG852QQkB99m0h+x1w7+xetcm7P+Dsmg+hs="
+          "Value": "sha256-5Msl8orU2inP1GuAi89hlbXeueEZ07LnC3re9/Bjot8="
         }
       ]
     },
@@ -9428,7 +9428,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26744"
+          "Value": "28096"
         },
         {
           "Name": "Content-Type",
@@ -9436,11 +9436,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vc2psw4HNpypxZ5OAhLRmHNprAh7JX4KICp7GEgMUJk=\""
+          "Value": "\"A+AK5LP/2M0eFgBHa+9KFZTLLzV4iVB06SJCHyY0ghA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:15:54 GMT"
+          "Value": "Fri, 10 Jan 2025 12:46:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9450,18 +9450,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vc2psw4HNpypxZ5OAhLRmHNprAh7JX4KICp7GEgMUJk="
+          "Value": "sha256-A+AK5LP/2M0eFgBHa+9KFZTLLzV4iVB06SJCHyY0ghA="
         }
       ]
     },
     {
       "Route": "_framework/Client.pdb",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-b2bt1tehi7.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-3ouvzkqben.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000051738411"
+          "Quality": "0.000047569213"
         }
       ],
       "ResponseHeaders": [
@@ -9471,15 +9471,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19327"
+          "Value": "21021"
         },
         {
           "Name": "ETag",
-          "Value": "\"cv8WsESCvSTIlPEf0EI+x5RCvR5erI/Pb3KjCUcSrOk=\""
+          "Value": "\"fm3oaf1Gs5/g15RRhGsrhImodlHSXYIsl0RDIJ2a7lc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:13:40 GMT"
+          "Value": "Fri, 10 Jan 2025 11:55:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9499,19 +9499,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vc2psw4HNpypxZ5OAhLRmHNprAh7JX4KICp7GEgMUJk=\""
+          "Value": "W/\"A+AK5LP/2M0eFgBHa+9KFZTLLzV4iVB06SJCHyY0ghA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vc2psw4HNpypxZ5OAhLRmHNprAh7JX4KICp7GEgMUJk="
+          "Value": "sha256-A+AK5LP/2M0eFgBHa+9KFZTLLzV4iVB06SJCHyY0ghA="
         }
       ]
     },
     {
       "Route": "_framework/Client.pdb.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-b2bt1tehi7.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\nrce2f7bjz-3ouvzkqben.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9520,7 +9520,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19327"
+          "Value": "21021"
         },
         {
           "Name": "Content-Type",
@@ -9528,11 +9528,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cv8WsESCvSTIlPEf0EI+x5RCvR5erI/Pb3KjCUcSrOk=\""
+          "Value": "\"fm3oaf1Gs5/g15RRhGsrhImodlHSXYIsl0RDIJ2a7lc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:13:40 GMT"
+          "Value": "Fri, 10 Jan 2025 11:55:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9550,7 +9550,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cv8WsESCvSTIlPEf0EI+x5RCvR5erI/Pb3KjCUcSrOk="
+          "Value": "sha256-fm3oaf1Gs5/g15RRhGsrhImodlHSXYIsl0RDIJ2a7lc="
         }
       ]
     },
@@ -9565,7 +9565,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "26389"
+          "Value": "29973"
         },
         {
           "Name": "Content-Type",
@@ -9573,11 +9573,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Pcq9qpmr87rMyxcRXsgaIpbiY57qUDhoG1ghcoQ3zDM=\""
+          "Value": "\"kxPMhQ/SOXkbEAcKnTLA7G8kfPFztRGeoYhP2kZwOOk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:15:54 GMT"
+          "Value": "Fri, 10 Jan 2025 12:46:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9587,18 +9587,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Pcq9qpmr87rMyxcRXsgaIpbiY57qUDhoG1ghcoQ3zDM="
+          "Value": "sha256-kxPMhQ/SOXkbEAcKnTLA7G8kfPFztRGeoYhP2kZwOOk="
         }
       ]
     },
     {
       "Route": "_framework/Client.wasm",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-3cxwpnhdop.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-3gtefuybhp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000089718285"
+          "Quality": "0.000076745971"
         }
       ],
       "ResponseHeaders": [
@@ -9608,15 +9608,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11145"
+          "Value": "13029"
         },
         {
           "Name": "ETag",
-          "Value": "\"ceY9qpIsUEzTTTrteLAHP+d1+Ct6ByUmPnZehczBJc8=\""
+          "Value": "\"dkKuPrkxwyA7tLC+qupBxJE6+DqwJ7b0RBWjw7XQDj8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:13:40 GMT"
+          "Value": "Fri, 10 Jan 2025 11:55:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9636,19 +9636,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Pcq9qpmr87rMyxcRXsgaIpbiY57qUDhoG1ghcoQ3zDM=\""
+          "Value": "W/\"kxPMhQ/SOXkbEAcKnTLA7G8kfPFztRGeoYhP2kZwOOk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Pcq9qpmr87rMyxcRXsgaIpbiY57qUDhoG1ghcoQ3zDM="
+          "Value": "sha256-kxPMhQ/SOXkbEAcKnTLA7G8kfPFztRGeoYhP2kZwOOk="
         }
       ]
     },
     {
       "Route": "_framework/Client.wasm.gz",
-      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-3cxwpnhdop.gz",
+      "AssetFile": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Client\\obj\\Debug\\net8.0\\compressed\\kb90l4x90i-3gtefuybhp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9657,7 +9657,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11145"
+          "Value": "13029"
         },
         {
           "Name": "Content-Type",
@@ -9665,11 +9665,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ceY9qpIsUEzTTTrteLAHP+d1+Ct6ByUmPnZehczBJc8=\""
+          "Value": "\"dkKuPrkxwyA7tLC+qupBxJE6+DqwJ7b0RBWjw7XQDj8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 09 Jan 2025 17:13:40 GMT"
+          "Value": "Fri, 10 Jan 2025 11:55:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9687,7 +9687,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ceY9qpIsUEzTTTrteLAHP+d1+Ct6ByUmPnZehczBJc8="
+          "Value": "sha256-dkKuPrkxwyA7tLC+qupBxJE6+DqwJ7b0RBWjw7XQDj8="
         }
       ]
     },

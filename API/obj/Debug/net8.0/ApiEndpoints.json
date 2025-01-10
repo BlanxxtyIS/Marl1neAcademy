@@ -48,6 +48,32 @@
   },
   {
     "ContainingType": "API.Controllers.AdminPageController",
+    "Method": "CreateChapter",
+    "RelativePath": "api/AdminPage/addChapter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chapter",
+        "Type": "Models.Chapter",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Models.Chapter",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API.Controllers.AdminPageController",
     "Method": "GetAllData",
     "RelativePath": "api/AdminPage/all",
     "HttpMethod": "GET",

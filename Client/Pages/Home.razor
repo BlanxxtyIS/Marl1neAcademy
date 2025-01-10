@@ -26,7 +26,6 @@
                 <td>@course.Name</td>
                 <td>@course.Description</td>
                 <td>
-                    <button class="btn btn-sm btn-warning" @onclick="() => AddNewCourse()">Добавить курс</button>
                     <button class="btn btn-sm btn-warning" @onclick="() => EditCourse(course)">Редактировать</button>
                     <button class="btn btn-sm btn-danger" @onclick="() => DeleteCourse(course)">Удалить</button>
                 </td>
@@ -109,3 +108,4 @@
         }
     }
 }
+
