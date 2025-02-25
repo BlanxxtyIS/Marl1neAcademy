@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marl1neAcademy.API", "Marl1neAcademy.API\Marl1neAcademy.API.csproj", "{58C91423-396A-4C79-9EA8-62AF66401A5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marl1neAcademy.PostgreSQL", "Marl1neAcademy.PostgreSQL\Marl1neAcademy.PostgreSQL.csproj", "{7ED90DC4-12E0-417E-92CA-9B4284C3E766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C91423-396A-4C79-9EA8-62AF66401A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C91423-396A-4C79-9EA8-62AF66401A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C91423-396A-4C79-9EA8-62AF66401A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C91423-396A-4C79-9EA8-62AF66401A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED90DC4-12E0-417E-92CA-9B4284C3E766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED90DC4-12E0-417E-92CA-9B4284C3E766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED90DC4-12E0-417E-92CA-9B4284C3E766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED90DC4-12E0-417E-92CA-9B4284C3E766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
