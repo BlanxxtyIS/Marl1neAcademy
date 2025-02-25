@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Marl1neAcademy.API.Controllers.CourseController",
+    "Method": "TestAuthor",
+    "RelativePath": "api/Course/Author",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Marl1neAcademy.API.Controllers.CourseController",
+    "Method": "TestCourse",
+    "RelativePath": "api/Course/Test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

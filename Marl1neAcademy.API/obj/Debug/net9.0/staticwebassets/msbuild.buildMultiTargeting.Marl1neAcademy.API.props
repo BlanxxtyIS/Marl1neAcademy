@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Marl1neAcademy.API.props" />
+</Project>
