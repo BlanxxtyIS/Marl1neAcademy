@@ -27,13 +27,15 @@ public class CourseRepository
             .FirstOrDefaultAsync(c => c.Id == id);
     }
 
-    public async Task AddCourse(CourseEntity course)
+    public async Task<Guid> AddCourse(CourseEntity course)
     {
         await _dbContext.AddAsync(course);
         await _dbContext.SaveChangesAsync();
+
+        return course.Id;
     }
 
-    public async Task UpdateCourse(CourseEntity course)
+    public async Task<Guid> UpdateCourse(CourseEntity course)
     {
         await _dbContext.Courses
             .Where(c => c.Id == course.Id)
@@ -44,12 +46,16 @@ public class CourseRepository
                 .SetProperty(c => c.Author, course.Author)
                 .SetProperty(c => c.Students, course.Students)
                 .SetProperty(c => c.Lessions, course.Lessions));
+
+        return course.Id;
     }
 
-    public async Task DeleteCourse(Guid id)
+    public async Task<Guid> DeleteCourse(Guid id)
     {
         await _dbContext.Courses
             .Where(c => c.Id == id)
             .ExecuteDeleteAsync();
+
+        return id;
     }
 }

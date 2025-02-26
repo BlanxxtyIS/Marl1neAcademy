@@ -7,20 +7,32 @@
       "RelativeMoniker": "D:0:0:{58C91423-396A-4C79-9EA8-62AF66401A5E}|Marl1neAcademy.API\\Marl1neAcademy.API.csproj|solutionrelative:marl1neacademy.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|solutionrelative:marl1neacademy.postgresql\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|solutionrelative:marl1neacademy.postgresql\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\models\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|solutionrelative:marl1neacademy.postgresql\\models\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58C91423-396A-4C79-9EA8-62AF66401A5E}|Marl1neAcademy.API\\Marl1neAcademy.API.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C91423-396A-4C79-9EA8-62AF66401A5E}|Marl1neAcademy.API\\Marl1neAcademy.API.csproj|solutionrelative:marl1neacademy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\models\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|solutionrelative:marl1neacademy.postgresql\\models\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\configurations\\authorconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|solutionrelative:marl1neacademy.postgresql\\configurations\\authorconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C91423-396A-4C79-9EA8-62AF66401A5E}|Marl1neAcademy.API\\Marl1neAcademy.API.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.api\\marl1neacademy.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58C91423-396A-4C79-9EA8-62AF66401A5E}|Marl1neAcademy.API\\Marl1neAcademy.API.csproj|solutionrelative:marl1neacademy.api\\marl1neacademy.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|solutionrelative:marl1neacademy.postgresql\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\models\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|solutionrelative:marl1neacademy.postgresql\\models\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58C91423-396A-4C79-9EA8-62AF66401A5E}|Marl1neAcademy.API\\Marl1neAcademy.API.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{58C91423-396A-4C79-9EA8-62AF66401A5E}|Marl1neAcademy.API\\Marl1neAcademy.API.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{58C91423-396A-4C79-9EA8-62AF66401A5E}|Marl1neAcademy.API\\Marl1neAcademy.API.csproj|solutionrelative:marl1neacademy.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58C91423-396A-4C79-9EA8-62AF66401A5E}|Marl1neAcademy.API\\Marl1neAcademy.API.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58C91423-396A-4C79-9EA8-62AF66401A5E}|Marl1neAcademy.API\\Marl1neAcademy.API.csproj|solutionrelative:marl1neacademy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\migrations\\20250225133254_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\postgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|solutionrelative:marl1neacademy.postgresql\\postgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\configurations\\authorconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|solutionrelative:marl1neacademy.postgresql\\configurations\\authorconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ED90DC4-12E0-417E-92CA-9B4284C3E766}|Marl1neAcademy.PostgreSQL\\Marl1neAcademy.PostgreSQL.csproj|c:\\users\\zver\\desktop\\marl1neacademy\\marl1neacademy.postgresql\\models\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,50 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Repositories\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Repositories\\AuthorRepository.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Repositories\\AuthorRepository.cs*",
-              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Repositories\\AuthorRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T15:44:04.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthorEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Models\\AuthorEntity.cs",
-              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Models\\AuthorEntity.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Models\\AuthorEntity.cs",
-              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Models\\AuthorEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T15:40:48.748Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Marl1neAcademy.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Marl1neAcademy.API\\Properties\\launchSettings.json",
+              "Title": "Marl1neAcademy.API",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\Marl1neAcademy.API.csproj",
+              "RelativeDocumentMoniker": "Marl1neAcademy.API\\Marl1neAcademy.API.csproj",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\Marl1neAcademy.API.csproj*",
+              "RelativeToolTip": "Marl1neAcademy.API\\Marl1neAcademy.API.csproj*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T15:39:04.1Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T15:58:45.044Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -119,46 +97,46 @@
               "RelativeDocumentMoniker": "Marl1neAcademy.API\\Controllers\\CourseController.cs",
               "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\Controllers\\CourseController.cs",
               "RelativeToolTip": "Marl1neAcademy.API\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T15:30:51.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PostgreDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Migrations\\PostgreDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Migrations\\PostgreDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Migrations\\PostgreDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Migrations\\PostgreDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CourseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Models\\CourseEntity.cs",
+              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Models\\CourseEntity.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Models\\CourseEntity.cs",
+              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Models\\CourseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T13:35:29.645Z",
+              "WhenOpened": "2025-02-25T11:31:58.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250225133254_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Migrations\\20250225133254_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Migrations\\20250225133254_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Migrations\\20250225133254_InitialCreate.cs",
-              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Migrations\\20250225133254_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AuthorConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Configurations\\AuthorConfigure.cs",
+              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Configurations\\AuthorConfigure.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Configurations\\AuthorConfigure.cs",
+              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Configurations\\AuthorConfigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T13:33:24.078Z",
+              "WhenOpened": "2025-02-25T13:27:57.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Repositories\\CourseRepository.cs",
               "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Repositories\\CourseRepository.cs",
               "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Repositories\\CourseRepository.cs",
               "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Repositories\\CourseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T14:25:12.858Z",
               "EditorCaption": ""
@@ -166,32 +144,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Marl1neAcademy.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\appsettings.json",
-              "RelativeToolTip": "Marl1neAcademy.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T13:30:33.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CourseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Models\\CourseEntity.cs",
-              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Models\\CourseEntity.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Models\\CourseEntity.cs",
-              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Models\\CourseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:31:58.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T15:44:04.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\Program.cs",
               "RelativeDocumentMoniker": "Marl1neAcademy.API\\Program.cs",
@@ -205,19 +169,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AuthorConfigure.cs",
-              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Configurations\\AuthorConfigure.cs",
-              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Configurations\\AuthorConfigure.cs",
-              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Configurations\\AuthorConfigure.cs",
-              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Configurations\\AuthorConfigure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Title": "PostgreDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Migrations\\PostgreDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Migrations\\PostgreDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Migrations\\PostgreDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Migrations\\PostgreDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T13:27:57.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T13:35:29.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Marl1neAcademy.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Marl1neAcademy.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T15:39:04.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Models\\AuthorEntity.cs",
+              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Models\\AuthorEntity.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Models\\AuthorEntity.cs",
+              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Models\\AuthorEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:40:48.748Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "20250225133254_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Migrations\\20250225133254_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Migrations\\20250225133254_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Migrations\\20250225133254_InitialCreate.cs",
+              "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Migrations\\20250225133254_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:33:24.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Marl1neAcademy.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.API\\appsettings.json",
+              "RelativeToolTip": "Marl1neAcademy.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T13:30:33.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PostgreDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\PostgreDbContext.cs",
               "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\PostgreDbContext.cs",
@@ -225,12 +236,11 @@
               "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\PostgreDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T12:51:59.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T12:51:59.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "LessionEntity.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Models\\LessionEntity.cs",
               "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Models\\LessionEntity.cs",
@@ -238,12 +248,11 @@
               "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Models\\LessionEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T12:30:44.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T12:30:44.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "StudentEntity.cs",
               "DocumentMoniker": "C:\\Users\\Zver\\Desktop\\Marl1neAcademy\\Marl1neAcademy.PostgreSQL\\Models\\StudentEntity.cs",
               "RelativeDocumentMoniker": "Marl1neAcademy.PostgreSQL\\Models\\StudentEntity.cs",
@@ -251,8 +260,7 @@
               "RelativeToolTip": "Marl1neAcademy.PostgreSQL\\Models\\StudentEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T12:27:32.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T12:27:32.872Z"
             }
           ]
         }

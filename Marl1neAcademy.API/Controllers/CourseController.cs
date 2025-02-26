@@ -10,48 +10,84 @@ namespace Marl1neAcademy.API.Controllers;
 public class CourseController : ControllerBase
 {
     private readonly ILogger<CourseController> _logger;
-    private readonly PostgreDbContext _dbContext;
     private readonly CourseRepository _courseRepository;
-    private readonly AuthorRepository _authorRepository;
 
     public CourseController(
-        ILogger<CourseController> logger, 
+        ILogger<CourseController> logger,
         PostgreDbContext dbContext)
     {
         _logger = logger;
-        _dbContext = dbContext;
         _courseRepository = new CourseRepository(dbContext);
-        _authorRepository = new AuthorRepository(dbContext);
     }
 
-    [HttpPost("Test")]
-    public async Task<IActionResult> TestCourse()
+    [HttpGet]
+    public async Task<ActionResult<List<CourseEntity>>> GetAllCourses()
     {
-        AuthorEntity? author = await _authorRepository.GetAuthor();
-        if (author == null)
-        {
-            return BadRequest("Автор не найден");
-        }
         try
         {
-            CourseEntity course = new CourseEntity()
-            {
-                Id = Guid.NewGuid(),
-                Title = "C#",
-                Description = "Курс по C# для продвинутых",
-                Price = 99.99m,
-                AuthorId = author.Id,
-                Author = author
-            };
-            await _courseRepository.AddCourse(
-                course
-            );
-
-            return Ok("Добавили");
+            var courses = await _courseRepository.GetCourses();
+            return Ok(courses);
         }
         catch (Exception ex)
         {
-            return BadRequest(ex.Message);
+            return BadRequest($"Ошибка в GetAllCourses: {ex.Message}");
+        }
+    }
+
+    [HttpGet("{id:guid}")]
+    public async Task<ActionResult<CourseEntity>> GetCourseById(Guid id)
+    {
+        try
+        {
+            var course = await _courseRepository.GetByIdCourse(id);
+            return Ok(course);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest($"Ошибка в GetCourseById: {ex.Message}");
+        }
+    }
+
+    [HttpPost]
+    public async Task<ActionResult<Guid>> CreateCourse(CourseEntity course)
+    {
+        try
+        {
+            var createId = await _courseRepository.AddCourse(course);
+            return Ok(createId);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest($"Ошибка в CreateCourse: {ex.Message}");
+        }
+
+    }
+
+    [HttpPut("{id:guid}")]
+    public async Task<ActionResult<Guid>> UpdateCourse(CourseEntity course)
+    {
+        try
+        {
+            var updatedId = await _courseRepository.UpdateCourse(course);
+            return Ok(updatedId);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest($"Ошибка в UpdateCourse: {ex.Message}");
+        }
+    }
+
+    [HttpDelete("{id:guid}")]
+    public async Task<ActionResult<Guid>> DeleteCourse(Guid id)
+    {
+        try
+        {
+            var deletedId = await _courseRepository.DeleteCourse(id);
+            return Ok(deletedId);
+        }
+        catch (Exception ex)
+        {
+            return BadRequest($"Ошибка в DeleteCourse: {ex.Message}");
         }
     }
 }

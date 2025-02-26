@@ -1,22 +1,131 @@
 [
   {
     "ContainingType": "Marl1neAcademy.API.Controllers.CourseController",
-    "Method": "TestAuthor",
-    "RelativePath": "api/Course/Author",
-    "HttpMethod": "POST",
+    "Method": "GetAllCourses",
+    "RelativePath": "api/Course",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Marl1neAcademy.PostgreSQL.Models.CourseEntity, Marl1neAcademy.PostgreSQL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Marl1neAcademy.API.Controllers.CourseController",
-    "Method": "TestCourse",
-    "RelativePath": "api/Course/Test",
+    "Method": "CreateCourse",
+    "RelativePath": "api/Course",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "Marl1neAcademy.PostgreSQL.Models.CourseEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Marl1neAcademy.API.Controllers.CourseController",
+    "Method": "GetCourseById",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Marl1neAcademy.PostgreSQL.Models.CourseEntity",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Marl1neAcademy.API.Controllers.CourseController",
+    "Method": "UpdateCourse",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "Marl1neAcademy.PostgreSQL.Models.CourseEntity",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Marl1neAcademy.API.Controllers.CourseController",
+    "Method": "DeleteCourse",
+    "RelativePath": "api/Course/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
