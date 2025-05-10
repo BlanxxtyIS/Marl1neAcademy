@@ -1,6 +1,14 @@
+using Marl1neAcademy.PostgreSQL;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
-
+var connString = builder.Configuration.GetConnectionString("PostgreDbContext");
+builder.Services.AddDbContext<PostgreDbContext>(
+    options =>
+    {
+        options.UseNpgsql(connString);
+    });
 
 builder.Services.AddControllers();
 

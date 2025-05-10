@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marl1neAcademy.PostgreSQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e905a40341218e53e8a66ff0b2b0fffae9d4b7bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marl1neAcademy.PostgreSQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marl1neAcademy.PostgreSQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

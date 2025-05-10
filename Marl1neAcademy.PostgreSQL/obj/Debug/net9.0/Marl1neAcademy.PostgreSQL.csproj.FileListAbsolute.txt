@@ -1,0 +1,15 @@
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\bin\Debug\net9.0\Marl1neAcademy.PostgreSQL.deps.json
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\bin\Debug\net9.0\Marl1neAcademy.PostgreSQL.dll
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\bin\Debug\net9.0\Marl1neAcademy.PostgreSQL.pdb
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\Marl1neAcademy.PostgreSQL.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\Marl1neAcademy.PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\Marl1neAcademy.PostgreSQL.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\Marl1neAcademy.PostgreSQL.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\Marl1neAcademy.PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\Marl1neAcademy.PostgreSQL.sourcelink.json
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\Marl1neAcademy.PostgreSQL.dll
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\refint\Marl1neAcademy.PostgreSQL.dll
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\Marl1neAcademy.PostgreSQL.pdb
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\ref\Marl1neAcademy.PostgreSQL.dll
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\bin\Debug\net9.0\Marl1neAcademy.PostgreSQL.runtimeconfig.json
+C:\Users\Zver\Desktop\Marl1neAcademy\Marl1neAcademy.PostgreSQL\obj\Debug\net9.0\Marl1neAcademy.PostgreSQL.genruntimeconfig.cache
